@@ -1,7 +1,7 @@
 # CUDA-CPP-BGModel
 
 ## 介紹
-- 背景模型的 B
+- 背景模型的 Baseline
 - 基於N bins直方圖統計Block內顏色資訊對背景建模，以顏色機率判斷前景或背景。
 
 
