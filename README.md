@@ -1,4 +1,4 @@
-# CUDA-CPP-BGModel
+# CPP-BGModel
 
 ## 介紹
 - 背景模型的 Baseline
